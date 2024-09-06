@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+A few projects I would like to work on this year are a game of some sort and possibly a IOS app, I do not have any set projects as of yet.
 <!--
 **Tyoung2022/Tyoung2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
